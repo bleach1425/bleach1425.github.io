@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/undefined/FirstPost/</loc>
-    
-    <lastmod>2022-09-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite-url/tags/index.html</loc>
     
     <lastmod>2022-09-13</lastmod>
@@ -30,16 +23,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/undefined/hello-world/</loc>
+    <loc>http://yoursite-url/tw/Hexo-Theme-LiveMyLife/</loc>
     
-    <lastmod>2022-09-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite-url/cn/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
+    <lastmod>2020-09-21</lastmod>
     
   </url>
   
@@ -80,10 +66,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://yoursite-url/tags/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
